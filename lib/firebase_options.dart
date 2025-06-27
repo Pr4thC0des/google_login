@@ -41,46 +41,46 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyCGHJIW5v0K_rwN7AgJH4BTBagY2b-DI2c',
-    appId: '1:740607827067:web:3cc3f3841078a12c6a16de',
-    messagingSenderId: '740607827067',
-    projectId: 'auth-d3113',
-    authDomain: 'auth-d3113.firebaseapp.com',
-    storageBucket: 'auth-d3113.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyB1xsSzh0MxlyT_5u9mZ6_ZprV_JzZ44QY',
-    appId: '1:740607827067:android:fc05ab9ceaf053f86a16de',
-    messagingSenderId: '740607827067',
-    projectId: 'auth-d3113',
-    storageBucket: 'auth-d3113.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBulXag-HVeZCZnHGAfrIdfguoHnysouQI',
-    appId: '1:740607827067:ios:567e56e62e20ab046a16de',
-    messagingSenderId: '740607827067',
-    projectId: 'auth-d3113',
-    storageBucket: 'auth-d3113.firebasestorage.app',
-    iosBundleId: 'com.example.loginPage1',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions macos = FirebaseOptions(
-    apiKey: 'AIzaSyBulXag-HVeZCZnHGAfrIdfguoHnysouQI',
-    appId: '1:740607827067:ios:567e56e62e20ab046a16de',
-    messagingSenderId: '740607827067',
-    projectId: 'auth-d3113',
-    storageBucket: 'auth-d3113.firebasestorage.app',
-    iosBundleId: 'com.example.loginPage1',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    storageBucket: '',
+    iosBundleId: '',
   );
 
   static const FirebaseOptions windows = FirebaseOptions(
-    apiKey: 'AIzaSyCGHJIW5v0K_rwN7AgJH4BTBagY2b-DI2c',
-    appId: '1:740607827067:web:41a7342a6bb32c0b6a16de',
-    messagingSenderId: '740607827067',
-    projectId: 'auth-d3113',
-    authDomain: 'auth-d3113.firebaseapp.com',
-    storageBucket: 'auth-d3113.firebasestorage.app',
+    apiKey: '',
+    appId: '',
+    messagingSenderId: '',
+    projectId: '',
+    authDomain: '',
+    storageBucket: '',
   );
 }
